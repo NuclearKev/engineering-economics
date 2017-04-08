@@ -1,0 +1,99 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ee-final-project.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ee-final-project-blx.bib
+Database file #2: sources.bib
+Warning--string name "march" is undefined
+--line 26 of file sources.bib
+I was expecting a `,' or a `}'---line 27 of file sources.bib
+ :   
+ :   year = 2017
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 34 of file sources.bib
+ :   
+ :   month = March
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 42 of file sources.bib
+ :   
+ :   month = April
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 50 of file sources.bib
+ :   
+ :   month = March
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 58 of file sources.bib
+ :   
+ :   month = April
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 66 of file sources.bib
+ :   
+ :   month = April
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 74 of file sources.bib
+ :   
+ :   month = April
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 2.9
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 11 entries,
+            6047 wiz_defined-function locations,
+            1169 strings with 9070 characters,
+and the built_in function-call counts, 26318 in all, are:
+= -- 909
+> -- 863
+< -- 251
++ -- 195
+- -- 288
+* -- 1503
+:= -- 1706
+add.period$ -- 0
+call.type$ -- 11
+change.case$ -- 83
+chr.to.int$ -- 35
+cite$ -- 20
+duplicate$ -- 3019
+empty$ -- 3007
+format.name$ -- 492
+if$ -- 6075
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 0
+newline$ -- 195
+num.names$ -- 422
+pop$ -- 3284
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 1659
+stack$ -- 0
+substring$ -- 261
+swap$ -- 834
+text.length$ -- 265
+text.prefix$ -- 10
+top$ -- 1
+type$ -- 405
+warning$ -- 0
+while$ -- 224
+width$ -- 0
+write$ -- 183
+(There were 7 error messages)

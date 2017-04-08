@@ -1,0 +1,195 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{cnnapple}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {CNN}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C1}
+  \strng{fullhash}{C1}
+  \field{sortinit}{C}
+  \field{title}{CNN Money Apple Inc.}
+  \verb{url}
+  \verb http://money.cnn.com/quote/quote.html?symb=AAPL
+  \endverb
+\endentry
+
+\entry{lifewire}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Costello}{C.}%
+     {Sam}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CS1}
+  \strng{fullhash}{CS1}
+  \field{sortinit}{C}
+  \field{title}{How Many iPhones Have Been Sold?}
+  \verb{url}
+  \verb https://www.lifewire.com/how-many-iphones-have-been-sold-1999500
+  \endverb
+\endentry
+
+\entry{hoover}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hoover's}{H.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{H1}
+  \strng{fullhash}{H1}
+  \field{sortinit}{H}
+  \field{title}{APPLE INC. Profile}
+  \field{type}{techreport}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{lexis}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Inc.}{I.}%
+     {Reed~Elsevier}{R.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{IRE1}
+  \strng{fullhash}{IRE1}
+  \field{sortinit}{I}
+  \field{title}{LexisNexis Academic}
+  \verb{url}
+  \verb http://www.lexisnexis.com.ezproxy.pct.edu/hottopics/lnacademic/
+  \endverb
+  \field{year}{2017}
+\endentry
+
+\entry{fool}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kalogeropoulos}{K.}%
+     {Demitrios}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KD1}
+  \strng{fullhash}{KD1}
+  \field{sortinit}{K}
+  \field{title}{Why Apple Inc. Stock Jumped 13\% in February}
+  \verb{url}
+  \verb https://www.fool.com/investing/2017/03/07/why-apple-inc-stock-jumped-13
+  \verb -in-february.aspx
+  \endverb
+\endentry
+
+\entry{lifewire2}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nations}{N.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ND1}
+  \strng{fullhash}{ND1}
+  \field{sortinit}{N}
+  \field{title}{How Many iPads Have Been Sold?}
+  \verb{url}
+  \verb https://www.lifewire.com/how-many-ipads-sold-1994296
+  \endverb
+\endentry
+
+\entry{jobs}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wikipedia}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{title}{Steve Jobs}
+  \verb{url}
+  \verb https://en.wikipedia.org/wiki/Steve_Jobs
+  \endverb
+  \field{year}{2017}
+\endentry
+
+\entry{zacks-bal}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zacks}{Z.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{Z1}
+  \strng{fullhash}{Z1}
+  \field{sortinit}{Z}
+  \field{title}{Apple Inc. Balance Sheet}
+  \verb{url}
+  \verb https://www.zacks.com/stock/quote/AAPL/balance-sheet
+  \endverb
+\endentry
+
+\entry{zacks-cash}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zacks}{Z.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{Z1}
+  \strng{fullhash}{Z1}
+  \field{sortinit}{Z}
+  \field{title}{Apple Inc. Cash Flow Statement}
+  \verb{url}
+  \verb https://www.zacks.com/stock/quote/AAPL/cash-flow-statements
+  \endverb
+\endentry
+
+\entry{zacks-income}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zacks}{Z.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{Z1}
+  \strng{fullhash}{Z1}
+  \field{sortinit}{Z}
+  \field{title}{Apple Inc. Income Statement}
+  \verb{url}
+  \verb https://www.zacks.com/stock/quote/AAPL/income-statement
+  \endverb
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
