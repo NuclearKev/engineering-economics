@@ -12,22 +12,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Performance Ratios}{6}{section.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Positives \& Negatives}{6}{section.6}
+\contentsline {section}{\numberline {6}Positives \& Negatives}{8}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Non-Financial Concerns}{6}{section.7}
+\contentsline {section}{\numberline {7}Non-Financial Concerns}{8}{section.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Competition}{6}{section.8}
+\contentsline {section}{\numberline {8}Competition}{8}{section.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}Other Information}{6}{section.9}
+\contentsline {section}{\numberline {9}Other Information}{8}{section.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}Conclusion}{6}{section.10}
+\contentsline {section}{\numberline {10}Conclusion}{8}{section.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11}Required Documents}{6}{section.11}
+\contentsline {section}{\numberline {11}Required Documents}{9}{section.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Balance Sheet}{7}{appendix.A}
+\contentsline {subsection}{\numberline {11.1}Balance Sheet}{9}{subsection.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Income Statement}{8}{appendix.B}
+\contentsline {subsection}{\numberline {11.2}Income Statement}{10}{subsection.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {C}Cash Flow Statement}{9}{appendix.C}
+\contentsline {subsection}{\numberline {11.3}Cash Flow Statement}{11}{subsection.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resources}{9}{section*.2}
+\contentsline {section}{\numberline {A}Performance Ratio Table}{12}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Resources}{13}{section*.2}
