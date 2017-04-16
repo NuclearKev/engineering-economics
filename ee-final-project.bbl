@@ -16,6 +16,53 @@
   {}
 \endgroup
 
+\entry{apple-green}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Apple}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{sortinit}{A}
+  \field{title}{Environment}
+  \verb{url}
+  \verb https://www.apple.com/environment/
+  \endverb
+  \field{year}{2017}
+\endentry
+
+\entry{poll1}{online}{}
+  \field{sortinit}{A}
+  \field{title}{Apple vs. Android}
+  \verb{url}
+  \verb http://www.quibblo.com/quiz/gh1uwFS/Apple-vs-Android
+  \endverb
+  \field{year}{2017}
+\endentry
+
+\entry{sue}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chokkattu}{C.}%
+     {Julian}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CJ1}
+  \strng{fullhash}{CJ1}
+  \field{sortinit}{C}
+  \field{title}{U.S. Court of Appeals officially reopens the Apple vs. Samsung
+  patent case}
+  \verb{url}
+  \verb http://www.digitaltrends.com/mobile/apple-vs-samsung-supreme-court/
+  \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{cnnapple}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -31,6 +78,8 @@
   \verb{url}
   \verb http://money.cnn.com/quote/quote.html?symb=AAPL
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{lifewire}{online}{}
@@ -48,6 +97,8 @@
   \verb{url}
   \verb https://www.lifewire.com/how-many-iphones-have-been-sold-1999500
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{hoover}{report}{}
@@ -65,6 +116,25 @@
   \field{type}{techreport}
   \field{year}{2016}
   \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{hoover-com}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hoover's}{H.}%
+     {D~&~B}{D.~.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HDB1}
+  \strng{fullhash}{HDB1}
+  \field{sortinit}{H}
+  \field{title}{APPLE INC. Competition}
+  \verb{url}
+  \verb http://www.hoovers.com/company-information/cs/competition.apple_inc.4c9
+  \verb baa063908dbd8.html
+  \endverb
+  \field{year}{2017}
 \endentry
 
 \entry{lexis}{online}{}
@@ -85,6 +155,25 @@
   \field{year}{2017}
 \endentry
 
+\entry{insider}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Insider}{I.}%
+     {Apple}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{IA1}
+  \strng{fullhash}{IA1}
+  \field{sortinit}{I}
+  \field{title}{Lawsuits}
+  \verb{url}
+  \verb http://appleinsider.com/topic/lawsuits
+  \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{fool}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -101,6 +190,8 @@
   \verb https://www.fool.com/investing/2017/03/07/why-apple-inc-stock-jumped-13
   \verb -in-february.aspx
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{lifewire2}{online}{}
@@ -118,6 +209,86 @@
   \verb{url}
   \verb https://www.lifewire.com/how-many-ipads-sold-1994296
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{smartphones}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Piejko}{P.}%
+     {Pawel}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PP1}
+  \strng{fullhash}{PP1}
+  \field{sortinit}{P}
+  \field{title}{Top 5 most popular smartphones across the globe in 2016}
+  \verb{url}
+  \verb https://deviceatlas.com/blog/most-popular-smartphones-2016
+  \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{verge}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Savov}{S.}%
+     {Vlad}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SV1}
+  \strng{fullhash}{SV1}
+  \field{sortinit}{S}
+  \field{title}{The entire history of iPhone vs. Android summed up in two
+  charts}
+  \verb{url}
+  \verb http://www.theverge.com/2016/6/1/11836816/iphone-vs-android-history-cha
+  \verb rts
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{gnu}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stallman}{S.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{sortinit}{S}
+  \field{title}{Apple's Operating Systems Are Malware}
+  \verb{url}
+  \verb https://www.gnu.org/proprietary/malware-apple.en.html
+  \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{most}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Waterlow}{W.}%
+     {Rahab}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WR1}
+  \strng{fullhash}{WR1}
+  \field{sortinit}{W}
+  \field{title}{Top 10 Most Popular Best Selling Laptop Brands in the World}
+  \verb{url}
+  \verb http://www.worldstopmost.com/2017-2018-2019-2020/electronics/most-popul
+  \verb ar-best-selling-laptop-brands-world-top-10-expensive-cheapest-list/
+  \endverb
+  \field{year}{2017}
 \endentry
 
 \entry{jobs}{online}{}
@@ -138,6 +309,15 @@
   \field{year}{2017}
 \endentry
 
+\entry{poll2}{online}{}
+  \field{sortinit}{W}
+  \field{title}{World Versus - Android vs Apple iOS}
+  \verb{url}
+  \verb http://worldversus.com/Android-vs-AppleiOS
+  \endverb
+  \field{year}{2017}
+\endentry
+
 \entry{zacks-bal}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -153,6 +333,8 @@
   \verb{url}
   \verb https://www.zacks.com/stock/quote/AAPL/balance-sheet
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{zacks-cash}{online}{}
@@ -170,6 +352,8 @@
   \verb{url}
   \verb https://www.zacks.com/stock/quote/AAPL/cash-flow-statements
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{zacks-income}{online}{}
@@ -187,6 +371,8 @@
   \verb{url}
   \verb https://www.zacks.com/stock/quote/AAPL/income-statement
   \endverb
+  \field{year}{2017}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \lossort

@@ -14,22 +14,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6}Positives \& Negatives}{8}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Non-Financial Concerns}{8}{section.7}
+\contentsline {section}{\numberline {7}Non-Financial Concerns}{9}{section.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Competition}{8}{section.8}
+\contentsline {section}{\numberline {8}Competition}{10}{section.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}Other Information}{8}{section.9}
+\contentsline {section}{\numberline {9}Other Information}{11}{section.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}Conclusion}{8}{section.10}
+\contentsline {section}{\numberline {10}Conclusion}{11}{section.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11}Required Documents}{9}{section.11}
+\contentsline {section}{\numberline {11}Required Documents}{12}{section.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1}Balance Sheet}{9}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.1}Balance Sheet}{12}{subsection.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2}Income Statement}{10}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.2}Income Statement}{13}{subsection.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.3}Cash Flow Statement}{11}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.3}Cash Flow Statement}{14}{subsection.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Performance Ratio Table}{12}{appendix.A}
+\contentsline {section}{\numberline {A}Company Information}{15}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resources}{13}{section*.2}
+\contentsline {section}{\numberline {B}Performance Ratio Table}{16}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C}Competitor List}{17}{appendix.C}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Resources}{18}{section*.2}

@@ -15,85 +15,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ee-final-project-blx.bib
 Database file #2: sources.bib
-Warning--string name "march" is undefined
---line 26 of file sources.bib
-I was expecting a `,' or a `}'---line 27 of file sources.bib
- :   
- :   year = 2017
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 34 of file sources.bib
- :   
- :   month = March
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 42 of file sources.bib
- :   
- :   month = April
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 50 of file sources.bib
- :   
- :   month = March
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 58 of file sources.bib
- :   
- :   month = April
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 66 of file sources.bib
- :   
- :   month = April
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 74 of file sources.bib
- :   
- :   month = April
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Biblatex version: 2.9
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 11 entries,
+You've used 21 entries,
             6047 wiz_defined-function locations,
-            1169 strings with 9070 characters,
-and the built_in function-call counts, 26318 in all, are:
-= -- 909
-> -- 863
-< -- 251
-+ -- 195
-- -- 288
-* -- 1503
-:= -- 1706
+            1211 strings with 10282 characters,
+and the built_in function-call counts, 50077 in all, are:
+= -- 1651
+> -- 1523
+< -- 483
++ -- 317
+- -- 506
+* -- 2986
+:= -- 2898
 add.period$ -- 0
-call.type$ -- 11
-change.case$ -- 83
-chr.to.int$ -- 35
-cite$ -- 20
-duplicate$ -- 3019
-empty$ -- 3007
-format.name$ -- 492
-if$ -- 6075
+call.type$ -- 21
+change.case$ -- 172
+chr.to.int$ -- 47
+cite$ -- 40
+duplicate$ -- 5936
+empty$ -- 5943
+format.name$ -- 876
+if$ -- 11565
 int.to.chr$ -- 0
-int.to.str$ -- 24
+int.to.str$ -- 42
 missing$ -- 0
-newline$ -- 195
-num.names$ -- 422
-pop$ -- 3284
+newline$ -- 379
+num.names$ -- 750
+pop$ -- 6477
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 188
 quote$ -- 0
-skip$ -- 1659
+skip$ -- 3055
 stack$ -- 0
-substring$ -- 261
-swap$ -- 834
-text.length$ -- 265
-text.prefix$ -- 10
+substring$ -- 428
+swap$ -- 1769
+text.length$ -- 483
+text.prefix$ -- 20
 top$ -- 1
-type$ -- 405
+type$ -- 785
 warning$ -- 0
-while$ -- 224
+while$ -- 378
 width$ -- 0
-write$ -- 183
-(There were 7 error messages)
+write$ -- 357
