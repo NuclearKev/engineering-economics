@@ -68,8 +68,8 @@
     \verb{url}
     \verb http://www.digitaltrends.com/mobile/apple-vs-samsung-supreme-court/
     \endverb
+    \field{month}{01}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{cnnapple}{online}{}
@@ -89,8 +89,8 @@
     \verb{url}
     \verb http://money.cnn.com/quote/quote.html?symb=AAPL
     \endverb
+    \field{month}{04}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{lifewire}{online}{}
@@ -112,8 +112,8 @@
     \verb{url}
     \verb https://www.lifewire.com/how-many-iphones-have-been-sold-1999500
     \endverb
+    \field{month}{03}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{hoover}{report}{}
@@ -131,8 +131,8 @@
     \field{sortinithash}{H}
     \field{title}{APPLE INC. Profile}
     \field{type}{techreport}
+    \field{month}{12}
     \field{year}{2016}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{hoover-com}{online}{}
@@ -200,8 +200,8 @@
     \verb{url}
     \verb https://www.cups.org/
     \endverb
+    \field{month}{03}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{lexis}{online}{}
@@ -245,8 +245,8 @@
     \verb{url}
     \verb http://appleinsider.com/topic/lawsuits
     \endverb
+    \field{month}{04}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{fool}{online}{}
@@ -269,8 +269,8 @@
     \verb https://www.fool.com/investing/2017/03/07/why-apple-inc-stock-jumped-
     \verb 13-in-february.aspx
     \endverb
+    \field{month}{03}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{cnbc}{online}{}
@@ -292,8 +292,8 @@
     \verb{url}
     \verb http://www.cnbc.com/2016/03/29/apple-vs-fbi-all-you-need-to-know.html
     \endverb
+    \field{month}{03}
     \field{year}{2016}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{lifewire2}{online}{}
@@ -315,8 +315,8 @@
     \verb{url}
     \verb https://www.lifewire.com/how-many-ipads-sold-1994296
     \endverb
+    \field{month}{03}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{smartphones}{online}{}
@@ -338,8 +338,8 @@
     \verb{url}
     \verb https://deviceatlas.com/blog/most-popular-smartphones-2016
     \endverb
+    \field{month}{06}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{verge}{online}{}
@@ -363,8 +363,8 @@
     \verb http://www.theverge.com/2016/6/1/11836816/iphone-vs-android-history-c
     \verb harts
     \endverb
+    \field{month}{06}
     \field{year}{2016}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{gnu}{online}{}
@@ -386,8 +386,8 @@
     \verb{url}
     \verb https://www.gnu.org/proprietary/malware-apple.en.html
     \endverb
+    \field{month}{04}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{most}{online}{}
@@ -461,8 +461,8 @@
     \verb{url}
     \verb https://www.zacks.com/stock/quote/AAPL/balance-sheet
     \endverb
+    \field{month}{04}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{zacks-cash}{online}{}
@@ -482,8 +482,8 @@
     \verb{url}
     \verb https://www.zacks.com/stock/quote/AAPL/cash-flow-statements
     \endverb
+    \field{month}{04}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{zacks-income}{online}{}
@@ -503,8 +503,8 @@
     \verb{url}
     \verb https://www.zacks.com/stock/quote/AAPL/income-statement
     \endverb
+    \field{month}{04}
     \field{year}{2017}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 \endsortlist
 \endinput
