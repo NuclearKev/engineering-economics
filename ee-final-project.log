@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Parabola) (preloaded format=pdflatex 2016.12.21)  16 APR 2017 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Parabola) (preloaded format=pdflatex 2016.12.21)  16 APR 2017 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -822,93 +822,93 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 89.
  (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [2]
-<apple-chart-3mo.png, id=134, 618.31pt x 236.885pt>
+<apple-chart-3mo.png, id=132, 618.31pt x 236.885pt>
 File: apple-chart-3mo.png Graphic file (type png)
  <use apple-chart-3mo.png>
-Package pdftex.def Info: apple-chart-3mo.png used on input line 107.
+Package pdftex.def Info: apple-chart-3mo.png used on input line 105.
 (pdftex.def)             Requested size: 450.0pt x 172.40771pt.
 
-<apple-chart-1yr.png, id=137, 618.31pt x 236.885pt>
+<apple-chart-1yr.png, id=135, 618.31pt x 236.885pt>
 File: apple-chart-1yr.png Graphic file (type png)
  <use apple-chart-1yr.png>
-Package pdftex.def Info: apple-chart-1yr.png used on input line 114.
+Package pdftex.def Info: apple-chart-1yr.png used on input line 112.
 (pdftex.def)             Requested size: 450.0pt x 172.40771pt.
 
-<apple-chart-5yr.png, id=140, 618.31pt x 236.885pt>
+<apple-chart-5yr.png, id=138, 618.31pt x 236.885pt>
 File: apple-chart-5yr.png Graphic file (type png)
  <use apple-chart-5yr.png>
-Package pdftex.def Info: apple-chart-5yr.png used on input line 120.
+Package pdftex.def Info: apple-chart-5yr.png used on input line 118.
 (pdftex.def)             Requested size: 450.0pt x 172.40771pt.
 
 [3 <./apple-chart-3mo.png> <./apple-chart-1yr.png> <./apple-chart-5yr.png>]
 [4] [5] [6] [7] [8] [9] [10] [11] [12]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 447.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 442.
 
-<assets.png, id=240, 1113.15875pt x 679.53876pt>
+<assets.png, id=236, 1113.15875pt x 679.53876pt>
 File: assets.png Graphic file (type png)
  <use assets.png>
-Package pdftex.def Info: assets.png used on input line 450.
+Package pdftex.def Info: assets.png used on input line 445.
 (pdftex.def)             Requested size: 450.0pt x 274.71399pt.
 
-<liabilities.png, id=243, 1114.1625pt x 747.79375pt>
+<liabilities.png, id=239, 1114.1625pt x 747.79375pt>
 File: liabilities.png Graphic file (type png)
  <use liabilities.png>
-Package pdftex.def Info: liabilities.png used on input line 456.
+Package pdftex.def Info: liabilities.png used on input line 451.
 (pdftex.def)             Requested size: 404.99725pt x 271.81853pt.
 
-<shareholder.png, id=246, 805.0075pt x 395.4775pt>
+<shareholder.png, id=242, 805.0075pt x 395.4775pt>
 File: shareholder.png Graphic file (type png)
  <use shareholder.png>
-Package pdftex.def Info: shareholder.png used on input line 465.
+Package pdftex.def Info: shareholder.png used on input line 460.
 (pdftex.def)             Requested size: 450.0pt x 221.07364pt.
 
 [13 <./assets.png> <./liabilities.png>]
-<income.png, id=256, 795.97375pt x 527.9725pt>
+<income.png, id=252, 795.97375pt x 527.9725pt>
 File: income.png Graphic file (type png)
  <use income.png>
-Package pdftex.def Info: income.png used on input line 475.
+Package pdftex.def Info: income.png used on input line 470.
 (pdftex.def)             Requested size: 450.0pt x 298.48225pt.
- [14 <./shareholder.png> <./income.png>] <cash-flow.png, id=266, 789.95125pt x 
+ [14 <./shareholder.png> <./income.png>] <cash-flow.png, id=262, 789.95125pt x 
 442.65375pt>
 File: cash-flow.png Graphic file (type png)
 
 <use cash-flow.png>
-Package pdftex.def Info: cash-flow.png used on input line 484.
+Package pdftex.def Info: cash-flow.png used on input line 479.
 (pdftex.def)             Requested size: 450.0pt x 252.1599pt.
  [15 <./cash-flow.png>]
-<overview.png, id=275, 1119.18124pt x 821.0675pt>
+<overview.png, id=271, 1119.18124pt x 821.0675pt>
 File: overview.png Graphic file (type png)
  <use overview.png>
-Package pdftex.def Info: overview.png used on input line 495.
+Package pdftex.def Info: overview.png used on input line 490.
 (pdftex.def)             Requested size: 450.0pt x 330.13759pt.
 
-<keyfin.png, id=278, 683.55376pt x 218.8175pt>
+<keyfin.png, id=274, 683.55376pt x 218.8175pt>
 File: keyfin.png Graphic file (type png)
  <use keyfin.png>
-Package pdftex.def Info: keyfin.png used on input line 501.
+Package pdftex.def Info: keyfin.png used on input line 496.
 (pdftex.def)             Requested size: 450.0pt x 144.05605pt.
 
-<employ.png, id=281, 814.04124pt x 407.5225pt>
+<employ.png, id=277, 814.04124pt x 407.5225pt>
 File: employ.png Graphic file (type png)
  <use employ.png>
-Package pdftex.def Info: employ.png used on input line 507.
+Package pdftex.def Info: employ.png used on input line 502.
 (pdftex.def)             Requested size: 450.0pt x 225.276pt.
  [16 <./overview.png> <./keyfin.png>] [17 <./employ.png>]
-<competitor1.png, id=300, 679.53876pt x 797.98125pt>
+<competitor1.png, id=295, 679.53876pt x 797.98125pt>
 File: competitor1.png Graphic file (type png)
  <use competitor1.png>
-Package pdftex.def Info: competitor1.png used on input line 536.
+Package pdftex.def Info: competitor1.png used on input line 531.
 (pdftex.def)             Requested size: 450.0pt x 528.4348pt.
 
-[18 <./competitor1.png>] <competitor2.png, id=308, 678.535pt x 255.95625pt>
+[18 <./competitor1.png>] <competitor2.png, id=304, 678.535pt x 255.95625pt>
 File: competitor2.png Graphic file (type png)
 
 <use competitor2.png>
-Package pdftex.def Info: competitor2.png used on input line 544.
+Package pdftex.def Info: competitor2.png used on input line 539.
 (pdftex.def)             Requested size: 450.0pt x 169.7479pt.
  [19 <./competitor2.png>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 550.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 545.
 
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
@@ -917,7 +917,7 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ! Misplaced alignment tab character &.
 \namepartgiven ->D\bibnamedelima &
                                   \bibnamedelima B
-l.553 ]
+l.548 ]
        
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -927,23 +927,23 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (57.44159pt too wide) in paragraph at lines 553--553
+Overfull \hbox (57.44159pt too wide) in paragraph at lines 548--548
 \OT1/pcr/m/n/12 com / company -[] information / cs / competition . apple _ inc 
 . 4c9baa063908dbd8 .
  []
 
 [20]
-Overfull \hbox (2.84161pt too wide) in paragraph at lines 553--553
+Overfull \hbox (2.84161pt too wide) in paragraph at lines 548--548
 \OT1/pcr/m/n/12 electronics / most -[] popular -[] best -[] selling -[] laptop 
 -[] brands -[] world -[]
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 555.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 550.
 [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 555.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 550.
  (./ee-final-project.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 555.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 555.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 550.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 550.
 Package rerunfilecheck Info: File `ee-final-project.out' has not changed.
 (rerunfilecheck)             Checksum: 81B6AA8610098C9B9CD00513B772962D;1000.
 Package logreq Info: Writing requests to 'ee-final-project.run.xml'.
@@ -951,21 +951,21 @@ Package logreq Info: Writing requests to 'ee-final-project.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14609 strings out of 493013
- 242623 string characters out of 6139318
+ 14606 strings out of 493013
+ 242587 string characters out of 6139318
  528402 words of memory out of 5000000
- 17878 multiletter control sequences out of 15000+600000
- 28419 words of font info for 55 fonts, out of 8000000 for 9000
+ 17877 multiletter control sequences out of 15000+600000
+ 28105 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,8n,57p,845b,1577s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/ut
 mb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ee-final-project.pdf (23 pages, 597985 bytes).
+Output written on ee-final-project.pdf (23 pages, 597175 bytes).
 PDF statistics:
- 407 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
- 88 named destinations out of 1000 (max. 500000)
+ 403 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
+ 86 named destinations out of 1000 (max. 500000)
  210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
