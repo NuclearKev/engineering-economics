@@ -36,4 +36,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {C}Competitor List}{17}{appendix.C}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Resources}{18}{section*.2}
+\contentsline {section}{Resources}{19}{section*.2}

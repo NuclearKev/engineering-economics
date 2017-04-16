@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex version 2.4 $
+% $ biblatex bbl format version 2.8 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,366 +16,427 @@
   {}
 \endgroup
 
-\entry{apple-green}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Apple}{A.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{A1}
-  \strng{fullhash}{A1}
-  \field{sortinit}{A}
-  \field{title}{Environment}
-  \verb{url}
-  \verb https://www.apple.com/environment/
-  \endverb
-  \field{year}{2017}
-\endentry
+\sortlist[entry]{nty/global/}
+  \entry{apple-green}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Environment}
+    \verb{url}
+    \verb https://www.apple.com/environment/
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{poll1}{online}{}
-  \field{sortinit}{A}
-  \field{title}{Apple vs. Android}
-  \verb{url}
-  \verb http://www.quibblo.com/quiz/gh1uwFS/Apple-vs-Android
-  \endverb
-  \field{year}{2017}
-\endentry
+  \entry{poll1}{online}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Apple vs. Android}
+    \verb{url}
+    \verb http://www.quibblo.com/quiz/gh1uwFS/Apple-vs-Android
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{sue}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Chokkattu}{C.}%
-     {Julian}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{CJ1}
-  \strng{fullhash}{CJ1}
-  \field{sortinit}{C}
-  \field{title}{U.S. Court of Appeals officially reopens the Apple vs. Samsung
-  patent case}
-  \verb{url}
-  \verb http://www.digitaltrends.com/mobile/apple-vs-samsung-supreme-court/
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{sue}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Chokkattu},
+         familyi={C\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{U.S. Court of Appeals officially reopens the Apple vs.
+  Samsung patent case}
+    \verb{url}
+    \verb http://www.digitaltrends.com/mobile/apple-vs-samsung-supreme-court/
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{cnnapple}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {CNN}{C.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{C1}
-  \strng{fullhash}{C1}
-  \field{sortinit}{C}
-  \field{title}{CNN Money Apple Inc.}
-  \verb{url}
-  \verb http://money.cnn.com/quote/quote.html?symb=AAPL
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{cnnapple}{online}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={CNN},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{CNN Money Apple Inc.}
+    \verb{url}
+    \verb http://money.cnn.com/quote/quote.html?symb=AAPL
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{lifewire}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Costello}{C.}%
-     {Sam}{S.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{CS1}
-  \strng{fullhash}{CS1}
-  \field{sortinit}{C}
-  \field{title}{How Many iPhones Have Been Sold?}
-  \verb{url}
-  \verb https://www.lifewire.com/how-many-iphones-have-been-sold-1999500
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{lifewire}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CS}{%
+         family={Costello},
+         familyi={C\bibinitperiod},
+         given={Sam},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CS1}
+    \strng{fullhash}{CS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{How Many iPhones Have Been Sold?}
+    \verb{url}
+    \verb https://www.lifewire.com/how-many-iphones-have-been-sold-1999500
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{hoover}{report}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Hoover's}{H.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{H1}
-  \strng{fullhash}{H1}
-  \field{sortinit}{H}
-  \field{title}{APPLE INC. Profile}
-  \field{type}{techreport}
-  \field{year}{2016}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{hoover}{report}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={Hoover's},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{APPLE INC. Profile}
+    \field{type}{techreport}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{hoover-com}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Hoover's}{H.}%
-     {D~&~B}{D.~.~B.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{HDB1}
-  \strng{fullhash}{HDB1}
-  \field{sortinit}{H}
-  \field{title}{APPLE INC. Competition}
-  \verb{url}
-  \verb http://www.hoovers.com/company-information/cs/competition.apple_inc.4c9
-  \verb baa063908dbd8.html
-  \endverb
-  \field{year}{2017}
-\endentry
+  \entry{hoover-com}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HDB}{%
+         family={Hoover's},
+         familyi={H\bibinitperiod},
+         given={D\bibnamedelima &\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim \bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HDB1}
+    \strng{fullhash}{HDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{APPLE INC. Competition}
+    \verb{url}
+    \verb http://www.hoovers.com/company-information/cs/competition.apple_inc.4
+    \verb c9baa063908dbd8.html
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{lexis}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Inc.}{I.}%
-     {Reed~Elsevier}{R.~E.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{IRE1}
-  \strng{fullhash}{IRE1}
-  \field{sortinit}{I}
-  \field{title}{LexisNexis Academic}
-  \verb{url}
-  \verb http://www.lexisnexis.com.ezproxy.pct.edu/hottopics/lnacademic/
-  \endverb
-  \field{year}{2017}
-\endentry
+  \entry{lexis}{online}{}
+    \name{author}{1}{}{%
+      {{hash=IRE}{%
+         family={Inc.},
+         familyi={I\bibinitperiod},
+         given={Reed\bibnamedelima Elsevier},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IRE1}
+    \strng{fullhash}{IRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{LexisNexis Academic}
+    \verb{url}
+    \verb http://www.lexisnexis.com.ezproxy.pct.edu/hottopics/lnacademic/
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{insider}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Insider}{I.}%
-     {Apple}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{IA1}
-  \strng{fullhash}{IA1}
-  \field{sortinit}{I}
-  \field{title}{Lawsuits}
-  \verb{url}
-  \verb http://appleinsider.com/topic/lawsuits
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{insider}{online}{}
+    \name{author}{1}{}{%
+      {{hash=IA}{%
+         family={Insider},
+         familyi={I\bibinitperiod},
+         given={Apple},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IA1}
+    \strng{fullhash}{IA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Lawsuits}
+    \verb{url}
+    \verb http://appleinsider.com/topic/lawsuits
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{fool}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Kalogeropoulos}{K.}%
-     {Demitrios}{D.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{KD1}
-  \strng{fullhash}{KD1}
-  \field{sortinit}{K}
-  \field{title}{Why Apple Inc. Stock Jumped 13\% in February}
-  \verb{url}
-  \verb https://www.fool.com/investing/2017/03/07/why-apple-inc-stock-jumped-13
-  \verb -in-february.aspx
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{fool}{online}{}
+    \name{author}{1}{}{%
+      {{hash=KD}{%
+         family={Kalogeropoulos},
+         familyi={K\bibinitperiod},
+         given={Demitrios},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KD1}
+    \strng{fullhash}{KD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Why Apple Inc. Stock Jumped 13\% in February}
+    \verb{url}
+    \verb https://www.fool.com/investing/2017/03/07/why-apple-inc-stock-jumped-
+    \verb 13-in-february.aspx
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{lifewire2}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Nations}{N.}%
-     {Daniel}{D.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{ND1}
-  \strng{fullhash}{ND1}
-  \field{sortinit}{N}
-  \field{title}{How Many iPads Have Been Sold?}
-  \verb{url}
-  \verb https://www.lifewire.com/how-many-ipads-sold-1994296
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{lifewire2}{online}{}
+    \name{author}{1}{}{%
+      {{hash=ND}{%
+         family={Nations},
+         familyi={N\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ND1}
+    \strng{fullhash}{ND1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{How Many iPads Have Been Sold?}
+    \verb{url}
+    \verb https://www.lifewire.com/how-many-ipads-sold-1994296
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{smartphones}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Piejko}{P.}%
-     {Pawel}{P.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{PP1}
-  \strng{fullhash}{PP1}
-  \field{sortinit}{P}
-  \field{title}{Top 5 most popular smartphones across the globe in 2016}
-  \verb{url}
-  \verb https://deviceatlas.com/blog/most-popular-smartphones-2016
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{smartphones}{online}{}
+    \name{author}{1}{}{%
+      {{hash=PP}{%
+         family={Piejko},
+         familyi={P\bibinitperiod},
+         given={Pawel},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PP1}
+    \strng{fullhash}{PP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Top 5 most popular smartphones across the globe in 2016}
+    \verb{url}
+    \verb https://deviceatlas.com/blog/most-popular-smartphones-2016
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{verge}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Savov}{S.}%
-     {Vlad}{V.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SV1}
-  \strng{fullhash}{SV1}
-  \field{sortinit}{S}
-  \field{title}{The entire history of iPhone vs. Android summed up in two
+  \entry{verge}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SV}{%
+         family={Savov},
+         familyi={S\bibinitperiod},
+         given={Vlad},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SV1}
+    \strng{fullhash}{SV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The entire history of iPhone vs. Android summed up in two
   charts}
-  \verb{url}
-  \verb http://www.theverge.com/2016/6/1/11836816/iphone-vs-android-history-cha
-  \verb rts
-  \endverb
-  \field{year}{2016}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+    \verb{url}
+    \verb http://www.theverge.com/2016/6/1/11836816/iphone-vs-android-history-c
+    \verb harts
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{gnu}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Stallman}{S.}%
-     {Richard}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SR1}
-  \strng{fullhash}{SR1}
-  \field{sortinit}{S}
-  \field{title}{Apple's Operating Systems Are Malware}
-  \verb{url}
-  \verb https://www.gnu.org/proprietary/malware-apple.en.html
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{gnu}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Stallman},
+         familyi={S\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Apple's Operating Systems Are Malware}
+    \verb{url}
+    \verb https://www.gnu.org/proprietary/malware-apple.en.html
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{most}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Waterlow}{W.}%
-     {Rahab}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{WR1}
-  \strng{fullhash}{WR1}
-  \field{sortinit}{W}
-  \field{title}{Top 10 Most Popular Best Selling Laptop Brands in the World}
-  \verb{url}
-  \verb http://www.worldstopmost.com/2017-2018-2019-2020/electronics/most-popul
-  \verb ar-best-selling-laptop-brands-world-top-10-expensive-cheapest-list/
-  \endverb
-  \field{year}{2017}
-\endentry
+  \entry{most}{online}{}
+    \name{author}{1}{}{%
+      {{hash=WR}{%
+         family={Waterlow},
+         familyi={W\bibinitperiod},
+         given={Rahab},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WR1}
+    \strng{fullhash}{WR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Top 10 Most Popular Best Selling Laptop Brands in the World}
+    \verb{url}
+    \verb http://www.worldstopmost.com/2017-2018-2019-2020/electronics/most-pop
+    \verb ular-best-selling-laptop-brands-world-top-10-expensive-cheapest-list/
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{jobs}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Wikipedia}{W.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{W1}
-  \strng{fullhash}{W1}
-  \field{sortinit}{W}
-  \field{title}{Steve Jobs}
-  \verb{url}
-  \verb https://en.wikipedia.org/wiki/Steve_Jobs
-  \endverb
-  \field{year}{2017}
-\endentry
+  \entry{jobs}{online}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Steve Jobs}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Steve_Jobs
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{poll2}{online}{}
-  \field{sortinit}{W}
-  \field{title}{World Versus - Android vs Apple iOS}
-  \verb{url}
-  \verb http://worldversus.com/Android-vs-AppleiOS
-  \endverb
-  \field{year}{2017}
-\endentry
+  \entry{poll2}{online}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{World Versus - Android vs Apple iOS}
+    \verb{url}
+    \verb http://worldversus.com/Android-vs-AppleiOS
+    \endverb
+    \field{year}{2017}
+  \endentry
 
-\entry{zacks-bal}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Zacks}{Z.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{Z1}
-  \strng{fullhash}{Z1}
-  \field{sortinit}{Z}
-  \field{title}{Apple Inc. Balance Sheet}
-  \verb{url}
-  \verb https://www.zacks.com/stock/quote/AAPL/balance-sheet
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{zacks-bal}{online}{}
+    \name{author}{1}{}{%
+      {{hash=Z}{%
+         family={Zacks},
+         familyi={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{Z1}
+    \strng{fullhash}{Z1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Apple Inc. Balance Sheet}
+    \verb{url}
+    \verb https://www.zacks.com/stock/quote/AAPL/balance-sheet
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{zacks-cash}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Zacks}{Z.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{Z1}
-  \strng{fullhash}{Z1}
-  \field{sortinit}{Z}
-  \field{title}{Apple Inc. Cash Flow Statement}
-  \verb{url}
-  \verb https://www.zacks.com/stock/quote/AAPL/cash-flow-statements
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
+  \entry{zacks-cash}{online}{}
+    \name{author}{1}{}{%
+      {{hash=Z}{%
+         family={Zacks},
+         familyi={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{Z1}
+    \strng{fullhash}{Z1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Apple Inc. Cash Flow Statement}
+    \verb{url}
+    \verb https://www.zacks.com/stock/quote/AAPL/cash-flow-statements
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\entry{zacks-income}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Zacks}{Z.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{Z1}
-  \strng{fullhash}{Z1}
-  \field{sortinit}{Z}
-  \field{title}{Apple Inc. Income Statement}
-  \verb{url}
-  \verb https://www.zacks.com/stock/quote/AAPL/income-statement
-  \endverb
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
-
-\lossort
-\endlossort
-
+  \entry{zacks-income}{online}{}
+    \name{author}{1}{}{%
+      {{hash=Z}{%
+         family={Zacks},
+         familyi={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{Z1}
+    \strng{fullhash}{Z1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Apple Inc. Income Statement}
+    \verb{url}
+    \verb https://www.zacks.com/stock/quote/AAPL/income-statement
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\endsortlist
 \endinput
