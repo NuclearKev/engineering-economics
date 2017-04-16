@@ -159,6 +159,51 @@
     \field{year}{2017}
   \endentry
 
+  \entry{open-apple}{online}{}
+    \name{author}{1}{}{%
+      {{hash=IA}{%
+         family={Inc.},
+         familyi={I\bibinitperiod},
+         given={Apple},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IA1}
+    \strng{fullhash}{IA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Apple Open Source}
+    \verb{url}
+    \verb https://opensource.apple.com/
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{cups}{online}{}
+    \name{author}{1}{}{%
+      {{hash=IA}{%
+         family={Inc.},
+         familyi={I\bibinitperiod},
+         given={Apple},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IA1}
+    \strng{fullhash}{IA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{CUPS}
+    \verb{url}
+    \verb https://www.cups.org/
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{lexis}{online}{}
     \name{author}{1}{}{%
       {{hash=IRE}{%
@@ -190,8 +235,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{IA1}
-    \strng{fullhash}{IA1}
+    \strng{namehash}{IA2}
+    \strng{fullhash}{IA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{I}
@@ -225,6 +270,29 @@
     \verb 13-in-february.aspx
     \endverb
     \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{cnbc}{online}{}
+    \name{author}{1}{}{%
+      {{hash=KA}{%
+         family={Kharpal.},
+         familyi={K\bibinitperiod},
+         given={Arjun},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KA1}
+    \strng{fullhash}{KA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Apple vs FBI: All You Need to Know}
+    \verb{url}
+    \verb http://www.cnbc.com/2016/03/29/apple-vs-fbi-all-you-need-to-know.html
+    \endverb
+    \field{year}{2016}
     \warn{\item Invalid format of field 'month'}
   \endentry
 
